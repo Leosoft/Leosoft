@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Leo.
 
-### I'm a technology passionate, I have worked in important companies such as Kunan and Mercado Libre.
+### I'm a technology passionate.
 
 ###### I am currently looking for my next job challenge as IOS engineer Ssr.
 
