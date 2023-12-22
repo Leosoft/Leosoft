@@ -2,7 +2,6 @@
 
 ### I'm a technology passionate.
 
-###### I am currently looking for my next job challenge as IOS engineer Ssr.
 
 <!--
 **Leosoft/Leosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
